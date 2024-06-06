@@ -402,7 +402,7 @@ a {
 
 .stats .img-block .image {
     width: 40rem;
-    hight: 46rem;
+    height: 58rem;
     object-fit: cover;
     border-radius: 1.2rem;
     background: url(<path-to-image>) lightgray 0px -79.595px / 100% 117.792% no-repeat;
